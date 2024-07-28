@@ -1,1 +1,1 @@
-# workshop_group4
+The Blazor blog project for the forth group.
